@@ -7,7 +7,7 @@ Text Editor, Settings, Loupe, and more.
 > [Polywick Blue](https://vscode.polywickstudio.net) by Polywick Studio (MIT).
 > Not affiliated with Polywick Studio.
 
-![Deepwick in the Adwaita demo](screenshot.png)
+![Deepwick in a libadwaita widget gallery](screenshot.png)
 
 ## Install
 
