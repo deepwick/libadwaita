@@ -1,0 +1,78 @@
+/* Deepwick for libadwaita. https://github.com/deepwick/libadwaita
+ * Deepwick is an unofficial theme derived from Polywick Blue by Polywick Studio (MIT).
+ * Every color variable is set, so dark and light mode both render Deepwick. */
+:root {
+  --accent-bg-color: #569CD6;
+  --accent-fg-color: #04041a;
+  --accent-color: #569CD6;
+
+  --destructive-bg-color: #F44747;
+  --destructive-fg-color: #04041a;
+  --destructive-color: #F44747;
+
+  --success-bg-color: #57A64A;
+  --success-fg-color: #04041a;
+  --success-color: #57A64A;
+
+  --warning-bg-color: #DCDCAA;
+  --warning-fg-color: #04041a;
+  --warning-color: #DCDCAA;
+
+  --error-bg-color: #F44747;
+  --error-fg-color: #04041a;
+  --error-color: #F44747;
+
+  --window-bg-color: #04041a;
+  --window-fg-color: #D4D4D4;
+
+  --view-bg-color: #04041a;
+  --view-fg-color: #D4D4D4;
+
+  --headerbar-bg-color: #10192C;
+  --headerbar-fg-color: #D4D4D4;
+  --headerbar-border-color: #1B2140;
+  --headerbar-backdrop-color: #10192C;
+  --headerbar-shade-color: rgb(0 0 0 / 36%);
+  --headerbar-darker-shade-color: rgb(0 0 0 / 90%);
+
+  --sidebar-bg-color: #10192C;
+  --sidebar-fg-color: #D4D4D4;
+  --sidebar-backdrop-color: #10192C;
+  --sidebar-border-color: #1B2140;
+  --sidebar-shade-color: rgb(0 0 0 / 25%);
+
+  --secondary-sidebar-bg-color: #10192C;
+  --secondary-sidebar-fg-color: #D4D4D4;
+  --secondary-sidebar-backdrop-color: #10192C;
+  --secondary-sidebar-border-color: #1B2140;
+  --secondary-sidebar-shade-color: rgb(0 0 0 / 25%);
+
+  --card-bg-color: #10192C;
+  --card-fg-color: #D4D4D4;
+  --card-shade-color: rgb(0 0 0 / 36%);
+
+  --thumbnail-bg-color: #10192C;
+  --thumbnail-fg-color: #D4D4D4;
+
+  --overview-bg-color: #10192C;
+  --overview-fg-color: #D4D4D4;
+
+  --active-toggle-bg-color: #1B2140;
+  --active-toggle-fg-color: #D4D4D4;
+
+  --dialog-bg-color: #10192C;
+  --dialog-fg-color: #D4D4D4;
+
+  --popover-bg-color: #10192C;
+  --popover-fg-color: #D4D4D4;
+  --popover-shade-color: rgb(0 0 0 / 25%);
+
+  --shade-color: rgb(0 0 0 / 36%);
+  --scrollbar-outline-color: #04041a;
+  --banner-color: #569CD6;
+}
+
+selection {
+  background-color: #264F78;
+  color: #D4D4D4;
+}
