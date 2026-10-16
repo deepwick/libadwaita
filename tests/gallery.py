@@ -11,7 +11,7 @@ def build(app):
     sidebar = Gtk.ListBox(css_classes=["navigation-sidebar"])
     for name in ("Overview", "Appearance", "Notifications", "About"):
         sidebar.append(Gtk.Label(label=name, xalign=0, margin_start=6, margin_top=6, margin_bottom=6))
-    sidebar.select_row(sidebar.get_row_at_index(0))
+    sidebar.select_row(sidebar.get_row_at_index(1))
     page = Adw.PreferencesPage()
     group = Adw.PreferencesGroup(title="Appearance", description="Deep navy, Visual Studio 2022 syntax colors")
     switch = Adw.SwitchRow(title="Dark style", active=True)
